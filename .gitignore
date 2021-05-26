@@ -1,0 +1,12 @@
+env
+db.sqlite3
+
+.env
+.db.sqlite3
+
+!*media/.gitkeep
+media/*
+
+.idea
+.DS_Store
+
