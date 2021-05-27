@@ -9,8 +9,6 @@ class HomeView(ListView):
     template_name = "blog/home.html"
 
 
-
-
 class PostListView(ListView):
 
     model = Post
